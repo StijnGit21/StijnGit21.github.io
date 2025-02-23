@@ -72,3 +72,9 @@ td a:hover {
         font-size: 14px;
     }
 }
+
+/*stelt de maximale formaat van de foto's in de tabel in*/
+.kleine-foto {
+    width: 400px;
+    height: auto;
+}
